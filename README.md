@@ -4,8 +4,7 @@ Projeto usando VUE.JS para criação de um jogo chamado Matador de monstro. Ness
 
 # Telas da aplicação
 
-![Tela Principal](![apresentacao](https://user-images.githubusercontent.com/55460568/90317761-eb11e000-df01-11ea-8bb2-5aaac12f3137.gif)
-![Lista de Series](https://user-images.githubusercontent.com/55460568/87852816-94ea5680-c8db-11ea-9719-53bbe4f00469.png)
+(![apresentacao](https://user-images.githubusercontent.com/55460568/90317761-eb11e000-df01-11ea-8bb2-5aaac12f3137.gif)
 
 # Instalação
 
